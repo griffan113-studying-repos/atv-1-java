@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlanoDeVoo
+comment1.params=destino\ origem\ nomeDoPiloto\ data
+comment1.target=PlanoDeVoo(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=destino
+comment2.target=void\ setDestino(java.lang.String)
+comment3.params=origem
+comment3.target=void\ setOrigem(java.lang.String)
+comment4.params=nomeDoPiloto
+comment4.target=void\ setNomeDoPiloto(java.lang.String)
+comment5.params=data
+comment5.target=void\ setData(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDestino()
+comment7.params=
+comment7.target=java.lang.String\ getOrigem()
+comment8.params=
+comment8.target=java.lang.String\ getNomeDoPiloto()
+comment9.params=
+comment9.target=java.lang.String\ getData()
+numComments=10
